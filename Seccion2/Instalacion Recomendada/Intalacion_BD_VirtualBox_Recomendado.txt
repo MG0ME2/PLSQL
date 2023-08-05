@@ -1,0 +1,5 @@
+--Decargar la ultima Vercion de VirtualBox
+https://www.virtualbox.org/wiki/Downloads
+
+--Descargar la imagen de linux con la base de datos preinstalada de oracle con los datos necesarios para el curso -  debe estar previamente registrado en ORACLE para descargar la imagen.
+https://download.oracle.com/otn/other/virtualbox/dd/DeveloperDaysVM2019-05-31_20.ova
